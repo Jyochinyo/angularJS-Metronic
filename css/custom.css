@@ -1,0 +1,11 @@
+/***  
+Page Loading       
+***/
+.page-on-load {
+  background: #3f4f62; }
+  .page-on-load .page-header,
+  .page-on-load .page-container,
+  .page-on-load .page-footer,
+  .page-on-load > .clearfix {
+    display: block;
+    transition: all 2s; }
